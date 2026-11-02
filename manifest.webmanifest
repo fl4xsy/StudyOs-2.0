@@ -1,0 +1,17 @@
+{
+  "name": "StudyOS \u2014 91 Day PCM Planner",
+  "short_name": "StudyOS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090d18",
+  "theme_color": "#090d18",
+  "description": "Offline-first 91-day Class 11 PCM study planner",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

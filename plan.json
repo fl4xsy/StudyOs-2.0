@@ -1,0 +1,1549 @@
+{
+  "2026-11-02": [
+    {
+      "id": "2026-11-02-physics",
+      "subject": "Physics",
+      "text": "Units: physical quantities, SI units and prefixes"
+    },
+    {
+      "id": "2026-11-02-chemistry",
+      "subject": "Chemistry",
+      "text": "Mole concept: mole, Avogadro constant and molar mass"
+    },
+    {
+      "id": "2026-11-02-maths",
+      "subject": "Maths",
+      "text": "Current class topic: rewrite notes + 3 examples"
+    }
+  ],
+  "2026-11-03": [
+    {
+      "id": "2026-11-03-physics",
+      "subject": "Physics",
+      "text": "Dimensions, dimensional formulae and dimensional analysis"
+    },
+    {
+      "id": "2026-11-03-chemistry",
+      "subject": "Chemistry",
+      "text": "Mole–particle conversions"
+    },
+    {
+      "id": "2026-11-03-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 independent questions"
+    }
+  ],
+  "2026-11-04": [
+    {
+      "id": "2026-11-04-physics",
+      "subject": "Physics",
+      "text": "Significant figures, errors and unit conversion"
+    },
+    {
+      "id": "2026-11-04-chemistry",
+      "subject": "Chemistry",
+      "text": "Mass–mole–particle conversions"
+    },
+    {
+      "id": "2026-11-04-maths",
+      "subject": "Maths",
+      "text": "Redo 2 class examples without looking"
+    }
+  ],
+  "2026-11-05": [
+    {
+      "id": "2026-11-05-physics",
+      "subject": "Physics",
+      "text": "Vectors: scalars, vectors and representation"
+    },
+    {
+      "id": "2026-11-05-chemistry",
+      "subject": "Chemistry",
+      "text": "Percentage composition and empirical formula"
+    },
+    {
+      "id": "2026-11-05-maths",
+      "subject": "Maths",
+      "text": "Current class topic: formula/concept recall"
+    }
+  ],
+  "2026-11-06": [
+    {
+      "id": "2026-11-06-physics",
+      "subject": "Physics",
+      "text": "Vector addition and subtraction; components"
+    },
+    {
+      "id": "2026-11-06-chemistry",
+      "subject": "Chemistry",
+      "text": "Molecular formula and stoichiometry"
+    },
+    {
+      "id": "2026-11-06-maths",
+      "subject": "Maths",
+      "text": "Solve 4 basic questions from current chapter"
+    }
+  ],
+  "2026-11-07": [
+    {
+      "id": "2026-11-07-physics",
+      "subject": "Physics",
+      "text": "Kinematics: position, path length, displacement and average speed"
+    },
+    {
+      "id": "2026-11-07-chemistry",
+      "subject": "Chemistry",
+      "text": "Limiting reagent: basic examples"
+    },
+    {
+      "id": "2026-11-07-maths",
+      "subject": "Maths",
+      "text": "Clear class backlog; make error list"
+    }
+  ],
+  "2026-11-08": [
+    {
+      "id": "2026-11-08-physics",
+      "subject": "Physics",
+      "text": "Weekly recap: Units + vector basics; short test"
+    },
+    {
+      "id": "2026-11-08-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly recap: Mole concept; short test"
+    },
+    {
+      "id": "2026-11-08-maths",
+      "subject": "Maths",
+      "text": "Short self-test on current chapter"
+    }
+  ],
+  "2026-11-09": [
+    {
+      "id": "2026-11-09-physics",
+      "subject": "Physics",
+      "text": "Position, distance and displacement; reference point"
+    },
+    {
+      "id": "2026-11-09-chemistry",
+      "subject": "Chemistry",
+      "text": "Atomic models: Dalton, Thomson and Rutherford"
+    },
+    {
+      "id": "2026-11-09-maths",
+      "subject": "Maths",
+      "text": "Current class topic: concept map + 3 examples"
+    }
+  ],
+  "2026-11-10": [
+    {
+      "id": "2026-11-10-physics",
+      "subject": "Physics",
+      "text": "Speed and velocity; average vs instantaneous"
+    },
+    {
+      "id": "2026-11-10-chemistry",
+      "subject": "Chemistry",
+      "text": "Bohr model and energy levels"
+    },
+    {
+      "id": "2026-11-10-maths",
+      "subject": "Maths",
+      "text": "Solve 4 questions from class"
+    }
+  ],
+  "2026-11-11": [
+    {
+      "id": "2026-11-11-physics",
+      "subject": "Physics",
+      "text": "Acceleration and its sign"
+    },
+    {
+      "id": "2026-11-11-chemistry",
+      "subject": "Chemistry",
+      "text": "Electromagnetic radiation and spectrum basics"
+    },
+    {
+      "id": "2026-11-11-maths",
+      "subject": "Maths",
+      "text": "Review one prerequisite used in class"
+    }
+  ],
+  "2026-11-12": [
+    {
+      "id": "2026-11-12-physics",
+      "subject": "Physics",
+      "text": "Position–time graphs and slope"
+    },
+    {
+      "id": "2026-11-12-chemistry",
+      "subject": "Chemistry",
+      "text": "de Broglie relation and Heisenberg principle"
+    },
+    {
+      "id": "2026-11-12-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 independent questions"
+    }
+  ],
+  "2026-11-13": [
+    {
+      "id": "2026-11-13-physics",
+      "subject": "Physics",
+      "text": "Velocity–time graphs and area"
+    },
+    {
+      "id": "2026-11-13-chemistry",
+      "subject": "Chemistry",
+      "text": "Quantum numbers: n, l, m and s"
+    },
+    {
+      "id": "2026-11-13-maths",
+      "subject": "Maths",
+      "text": "Redo mistakes from the week"
+    }
+  ],
+  "2026-11-14": [
+    {
+      "id": "2026-11-14-physics",
+      "subject": "Physics",
+      "text": "Equations of motion; simple numericals"
+    },
+    {
+      "id": "2026-11-14-chemistry",
+      "subject": "Chemistry",
+      "text": "Orbitals, shapes and electronic configuration"
+    },
+    {
+      "id": "2026-11-14-maths",
+      "subject": "Maths",
+      "text": "NCERT examples / school worksheet"
+    }
+  ],
+  "2026-11-15": [
+    {
+      "id": "2026-11-15-physics",
+      "subject": "Physics",
+      "text": "Weekly recap: 1D motion; short test"
+    },
+    {
+      "id": "2026-11-15-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly recap: Atomic Structure; short test"
+    },
+    {
+      "id": "2026-11-15-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ],
+  "2026-11-16": [
+    {
+      "id": "2026-11-16-physics",
+      "subject": "Physics",
+      "text": "Motion in a plane: position and displacement vectors"
+    },
+    {
+      "id": "2026-11-16-chemistry",
+      "subject": "Chemistry",
+      "text": "Periodic table: groups, periods and blocks"
+    },
+    {
+      "id": "2026-11-16-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 examples independently"
+    }
+  ],
+  "2026-11-17": [
+    {
+      "id": "2026-11-17-physics",
+      "subject": "Physics",
+      "text": "Projectile motion: horizontal and vertical components"
+    },
+    {
+      "id": "2026-11-17-chemistry",
+      "subject": "Chemistry",
+      "text": "Atomic radius and ionic radius trends"
+    },
+    {
+      "id": "2026-11-17-maths",
+      "subject": "Maths",
+      "text": "Practice 4 basic questions"
+    }
+  ],
+  "2026-11-18": [
+    {
+      "id": "2026-11-18-physics",
+      "subject": "Physics",
+      "text": "Projectile motion: time, range and maximum height"
+    },
+    {
+      "id": "2026-11-18-chemistry",
+      "subject": "Chemistry",
+      "text": "Ionisation enthalpy trends and exceptions"
+    },
+    {
+      "id": "2026-11-18-maths",
+      "subject": "Maths",
+      "text": "Repair one algebra prerequisite if needed"
+    }
+  ],
+  "2026-11-19": [
+    {
+      "id": "2026-11-19-physics",
+      "subject": "Physics",
+      "text": "Uniform circular motion: speed and acceleration"
+    },
+    {
+      "id": "2026-11-19-chemistry",
+      "subject": "Chemistry",
+      "text": "Electron gain enthalpy and electronegativity"
+    },
+    {
+      "id": "2026-11-19-maths",
+      "subject": "Maths",
+      "text": "Current class topic: formula recall + 3 questions"
+    }
+  ],
+  "2026-11-20": [
+    {
+      "id": "2026-11-20-physics",
+      "subject": "Physics",
+      "text": "Newton's laws: inertia and force"
+    },
+    {
+      "id": "2026-11-20-chemistry",
+      "subject": "Chemistry",
+      "text": "Valency and periodic properties"
+    },
+    {
+      "id": "2026-11-20-maths",
+      "subject": "Maths",
+      "text": "Redo 3 previously wrong questions"
+    }
+  ],
+  "2026-11-21": [
+    {
+      "id": "2026-11-21-physics",
+      "subject": "Physics",
+      "text": "Free-body diagrams; normal reaction and tension"
+    },
+    {
+      "id": "2026-11-21-chemistry",
+      "subject": "Chemistry",
+      "text": "Explain trends using effective nuclear charge"
+    },
+    {
+      "id": "2026-11-21-maths",
+      "subject": "Maths",
+      "text": "School homework + notes completion"
+    }
+  ],
+  "2026-11-22": [
+    {
+      "id": "2026-11-22-physics",
+      "subject": "Physics",
+      "text": "Weekly recap: Kinematics; short test"
+    },
+    {
+      "id": "2026-11-22-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly recap: Periodicity; short test"
+    },
+    {
+      "id": "2026-11-22-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ],
+  "2026-11-23": [
+    {
+      "id": "2026-11-23-physics",
+      "subject": "Physics",
+      "text": "Newton's second law and momentum"
+    },
+    {
+      "id": "2026-11-23-chemistry",
+      "subject": "Chemistry",
+      "text": "Chemical bonding: ionic bond and lattice idea"
+    },
+    {
+      "id": "2026-11-23-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 examples independently"
+    }
+  ],
+  "2026-11-24": [
+    {
+      "id": "2026-11-24-physics",
+      "subject": "Physics",
+      "text": "Newton's third law; action–reaction pairs"
+    },
+    {
+      "id": "2026-11-24-chemistry",
+      "subject": "Chemistry",
+      "text": "Lewis structures and octet rule"
+    },
+    {
+      "id": "2026-11-24-maths",
+      "subject": "Maths",
+      "text": "Solve 4 textbook questions"
+    }
+  ],
+  "2026-11-25": [
+    {
+      "id": "2026-11-25-physics",
+      "subject": "Physics",
+      "text": "Friction: static and kinetic friction"
+    },
+    {
+      "id": "2026-11-25-chemistry",
+      "subject": "Chemistry",
+      "text": "Formal charge and resonance basics"
+    },
+    {
+      "id": "2026-11-25-maths",
+      "subject": "Maths",
+      "text": "Review formulas and definitions from class"
+    }
+  ],
+  "2026-11-26": [
+    {
+      "id": "2026-11-26-physics",
+      "subject": "Physics",
+      "text": "Inclined plane: force components"
+    },
+    {
+      "id": "2026-11-26-chemistry",
+      "subject": "Chemistry",
+      "text": "VSEPR: shapes of simple molecules"
+    },
+    {
+      "id": "2026-11-26-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 questions"
+    }
+  ],
+  "2026-11-27": [
+    {
+      "id": "2026-11-27-physics",
+      "subject": "Physics",
+      "text": "Work by constant force; positive/negative/zero work"
+    },
+    {
+      "id": "2026-11-27-chemistry",
+      "subject": "Chemistry",
+      "text": "Hybridisation: sp, sp2 and sp3"
+    },
+    {
+      "id": "2026-11-27-maths",
+      "subject": "Maths",
+      "text": "Mistake-log reattempt"
+    }
+  ],
+  "2026-11-28": [
+    {
+      "id": "2026-11-28-physics",
+      "subject": "Physics",
+      "text": "Kinetic energy and work–energy theorem"
+    },
+    {
+      "id": "2026-11-28-chemistry",
+      "subject": "Chemistry",
+      "text": "Bond length, bond angle and bond energy"
+    },
+    {
+      "id": "2026-11-28-maths",
+      "subject": "Maths",
+      "text": "School homework + one timed set"
+    }
+  ],
+  "2026-11-29": [
+    {
+      "id": "2026-11-29-physics",
+      "subject": "Physics",
+      "text": "Weekly recap: Laws of Motion + Work; short test"
+    },
+    {
+      "id": "2026-11-29-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly recap: Bonding; short test"
+    },
+    {
+      "id": "2026-11-29-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ],
+  "2026-11-30": [
+    {
+      "id": "2026-11-30-physics",
+      "subject": "Physics",
+      "text": "Work by variable force: force–displacement graph"
+    },
+    {
+      "id": "2026-11-30-chemistry",
+      "subject": "Chemistry",
+      "text": "Molecular orbital theory: basic idea"
+    },
+    {
+      "id": "2026-11-30-maths",
+      "subject": "Maths",
+      "text": "Current class topic: concept + 3 examples"
+    }
+  ],
+  "2026-12-01": [
+    {
+      "id": "2026-12-01-physics",
+      "subject": "Physics",
+      "text": "Power and its units"
+    },
+    {
+      "id": "2026-12-01-chemistry",
+      "subject": "Chemistry",
+      "text": "Bond order and magnetic behaviour basics"
+    },
+    {
+      "id": "2026-12-01-maths",
+      "subject": "Maths",
+      "text": "Solve 4 questions independently"
+    }
+  ],
+  "2026-12-02": [
+    {
+      "id": "2026-12-02-physics",
+      "subject": "Physics",
+      "text": "Potential energy and conservative forces"
+    },
+    {
+      "id": "2026-12-02-chemistry",
+      "subject": "Chemistry",
+      "text": "Hydrogen bonding and its effects"
+    },
+    {
+      "id": "2026-12-02-maths",
+      "subject": "Maths",
+      "text": "Repair class doubt from the week"
+    }
+  ],
+  "2026-12-03": [
+    {
+      "id": "2026-12-03-physics",
+      "subject": "Physics",
+      "text": "Conservation of mechanical energy"
+    },
+    {
+      "id": "2026-12-03-chemistry",
+      "subject": "Chemistry",
+      "text": "NCERT Chemical Bonding examples"
+    },
+    {
+      "id": "2026-12-03-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 questions"
+    }
+  ],
+  "2026-12-04": [
+    {
+      "id": "2026-12-04-physics",
+      "subject": "Physics",
+      "text": "Centre of mass: meaning and position"
+    },
+    {
+      "id": "2026-12-04-chemistry",
+      "subject": "Chemistry",
+      "text": "Chemical Bonding concept map"
+    },
+    {
+      "id": "2026-12-04-maths",
+      "subject": "Maths",
+      "text": "Redo mistakes; note formulas"
+    }
+  ],
+  "2026-12-05": [
+    {
+      "id": "2026-12-05-physics",
+      "subject": "Physics",
+      "text": "Linear momentum conservation and collisions"
+    },
+    {
+      "id": "2026-12-05-chemistry",
+      "subject": "Chemistry",
+      "text": "Chemical Bonding question practice"
+    },
+    {
+      "id": "2026-12-05-maths",
+      "subject": "Maths",
+      "text": "School homework + revision"
+    }
+  ],
+  "2026-12-06": [
+    {
+      "id": "2026-12-06-physics",
+      "subject": "Physics",
+      "text": "Weekly recap: WEP + COM; short test"
+    },
+    {
+      "id": "2026-12-06-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly test: Chemical Bonding"
+    },
+    {
+      "id": "2026-12-06-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ],
+  "2026-12-07": [
+    {
+      "id": "2026-12-07-physics",
+      "subject": "Physics",
+      "text": "Rotational motion: angular displacement and velocity"
+    },
+    {
+      "id": "2026-12-07-chemistry",
+      "subject": "Chemistry",
+      "text": "Thermodynamics: system, surroundings and state"
+    },
+    {
+      "id": "2026-12-07-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 independent examples"
+    }
+  ],
+  "2026-12-08": [
+    {
+      "id": "2026-12-08-physics",
+      "subject": "Physics",
+      "text": "Relation between linear and angular quantities"
+    },
+    {
+      "id": "2026-12-08-chemistry",
+      "subject": "Chemistry",
+      "text": "Types of systems and thermodynamic variables"
+    },
+    {
+      "id": "2026-12-08-maths",
+      "subject": "Maths",
+      "text": "Solve 4 school-level questions"
+    }
+  ],
+  "2026-12-09": [
+    {
+      "id": "2026-12-09-physics",
+      "subject": "Physics",
+      "text": "Torque and moment of force"
+    },
+    {
+      "id": "2026-12-09-chemistry",
+      "subject": "Chemistry",
+      "text": "Heat, work and internal energy"
+    },
+    {
+      "id": "2026-12-09-maths",
+      "subject": "Maths",
+      "text": "Review prerequisite formulae"
+    }
+  ],
+  "2026-12-10": [
+    {
+      "id": "2026-12-10-physics",
+      "subject": "Physics",
+      "text": "Moment of inertia: meaning and simple cases"
+    },
+    {
+      "id": "2026-12-10-chemistry",
+      "subject": "Chemistry",
+      "text": "First law of thermodynamics"
+    },
+    {
+      "id": "2026-12-10-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 questions"
+    }
+  ],
+  "2026-12-11": [
+    {
+      "id": "2026-12-11-physics",
+      "subject": "Physics",
+      "text": "Angular momentum and conservation"
+    },
+    {
+      "id": "2026-12-11-chemistry",
+      "subject": "Chemistry",
+      "text": "Enthalpy and thermochemical equations"
+    },
+    {
+      "id": "2026-12-11-maths",
+      "subject": "Maths",
+      "text": "Redo 3 mistakes"
+    }
+  ],
+  "2026-12-12": [
+    {
+      "id": "2026-12-12-physics",
+      "subject": "Physics",
+      "text": "Rolling motion: basic energy relation"
+    },
+    {
+      "id": "2026-12-12-chemistry",
+      "subject": "Chemistry",
+      "text": "Hess's law and enthalpy calculations"
+    },
+    {
+      "id": "2026-12-12-maths",
+      "subject": "Maths",
+      "text": "School homework + notes"
+    }
+  ],
+  "2026-12-13": [
+    {
+      "id": "2026-12-13-physics",
+      "subject": "Physics",
+      "text": "Weekly recap: Rotation; short test"
+    },
+    {
+      "id": "2026-12-13-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly recap: Thermodynamics; short test"
+    },
+    {
+      "id": "2026-12-13-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ],
+  "2026-12-14": [
+    {
+      "id": "2026-12-14-physics",
+      "subject": "Physics",
+      "text": "Gravitation: Newton's law and gravitational field"
+    },
+    {
+      "id": "2026-12-14-chemistry",
+      "subject": "Chemistry",
+      "text": "Entropy and spontaneity: qualitative meaning"
+    },
+    {
+      "id": "2026-12-14-maths",
+      "subject": "Maths",
+      "text": "Current class topic: concept recall + 3 questions"
+    }
+  ],
+  "2026-12-15": [
+    {
+      "id": "2026-12-15-physics",
+      "subject": "Physics",
+      "text": "Acceleration due to gravity and variation"
+    },
+    {
+      "id": "2026-12-15-chemistry",
+      "subject": "Chemistry",
+      "text": "Gibbs energy and spontaneity"
+    },
+    {
+      "id": "2026-12-15-maths",
+      "subject": "Maths",
+      "text": "Solve 4 questions independently"
+    }
+  ],
+  "2026-12-16": [
+    {
+      "id": "2026-12-16-physics",
+      "subject": "Physics",
+      "text": "Gravitational potential and potential energy"
+    },
+    {
+      "id": "2026-12-16-chemistry",
+      "subject": "Chemistry",
+      "text": "Equilibrium: dynamic equilibrium and Kc"
+    },
+    {
+      "id": "2026-12-16-maths",
+      "subject": "Maths",
+      "text": "Clear one doubt from class notes"
+    }
+  ],
+  "2026-12-17": [
+    {
+      "id": "2026-12-17-physics",
+      "subject": "Physics",
+      "text": "Escape speed and orbital speed basics"
+    },
+    {
+      "id": "2026-12-17-chemistry",
+      "subject": "Chemistry",
+      "text": "Kp and relation between Kp and Kc"
+    },
+    {
+      "id": "2026-12-17-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 questions"
+    }
+  ],
+  "2026-12-18": [
+    {
+      "id": "2026-12-18-physics",
+      "subject": "Physics",
+      "text": "Elasticity: stress, strain and Hooke's law"
+    },
+    {
+      "id": "2026-12-18-chemistry",
+      "subject": "Chemistry",
+      "text": "Le Chatelier's principle"
+    },
+    {
+      "id": "2026-12-18-maths",
+      "subject": "Maths",
+      "text": "Mistake-log reattempt"
+    }
+  ],
+  "2026-12-19": [
+    {
+      "id": "2026-12-19-physics",
+      "subject": "Physics",
+      "text": "Fluids: pressure, Pascal's law and buoyancy"
+    },
+    {
+      "id": "2026-12-19-chemistry",
+      "subject": "Chemistry",
+      "text": "Ionic equilibrium: acids, bases and pH"
+    },
+    {
+      "id": "2026-12-19-maths",
+      "subject": "Maths",
+      "text": "School homework + revision"
+    }
+  ],
+  "2026-12-20": [
+    {
+      "id": "2026-12-20-physics",
+      "subject": "Physics",
+      "text": "Weekly recap: Gravitation + properties; short test"
+    },
+    {
+      "id": "2026-12-20-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly recap: Thermodynamics + Equilibrium; short test"
+    },
+    {
+      "id": "2026-12-20-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ],
+  "2026-12-21": [
+    {
+      "id": "2026-12-21-physics",
+      "subject": "Physics",
+      "text": "Fluid flow: streamline and continuity equation"
+    },
+    {
+      "id": "2026-12-21-chemistry",
+      "subject": "Chemistry",
+      "text": "Ionic equilibrium: common-ion effect"
+    },
+    {
+      "id": "2026-12-21-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 independent examples"
+    }
+  ],
+  "2026-12-22": [
+    {
+      "id": "2026-12-22-physics",
+      "subject": "Physics",
+      "text": "Bernoulli's principle and applications"
+    },
+    {
+      "id": "2026-12-22-chemistry",
+      "subject": "Chemistry",
+      "text": "Buffer solutions and solubility product (if in syllabus)"
+    },
+    {
+      "id": "2026-12-22-maths",
+      "subject": "Maths",
+      "text": "Solve 4 school-level questions"
+    }
+  ],
+  "2026-12-23": [
+    {
+      "id": "2026-12-23-physics",
+      "subject": "Physics",
+      "text": "Viscosity and terminal velocity"
+    },
+    {
+      "id": "2026-12-23-chemistry",
+      "subject": "Chemistry",
+      "text": "Redox: oxidation and reduction concepts"
+    },
+    {
+      "id": "2026-12-23-maths",
+      "subject": "Maths",
+      "text": "Review formulas from current chapter"
+    }
+  ],
+  "2026-12-24": [
+    {
+      "id": "2026-12-24-physics",
+      "subject": "Physics",
+      "text": "Surface tension and capillarity"
+    },
+    {
+      "id": "2026-12-24-chemistry",
+      "subject": "Chemistry",
+      "text": "Oxidation number rules"
+    },
+    {
+      "id": "2026-12-24-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 questions"
+    }
+  ],
+  "2026-12-25": [
+    {
+      "id": "2026-12-25-physics",
+      "subject": "Physics",
+      "text": "Thermal expansion and coefficients"
+    },
+    {
+      "id": "2026-12-25-chemistry",
+      "subject": "Chemistry",
+      "text": "Balancing redox reactions"
+    },
+    {
+      "id": "2026-12-25-maths",
+      "subject": "Maths",
+      "text": "Redo errors from the week"
+    }
+  ],
+  "2026-12-26": [
+    {
+      "id": "2026-12-26-physics",
+      "subject": "Physics",
+      "text": "Calorimetry and change of state"
+    },
+    {
+      "id": "2026-12-26-chemistry",
+      "subject": "Chemistry",
+      "text": "Redox practice and NCERT examples"
+    },
+    {
+      "id": "2026-12-26-maths",
+      "subject": "Maths",
+      "text": "School homework + backlog"
+    }
+  ],
+  "2026-12-27": [
+    {
+      "id": "2026-12-27-physics",
+      "subject": "Physics",
+      "text": "Weekly recap: Fluids + thermal properties; short test"
+    },
+    {
+      "id": "2026-12-27-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly recap: Equilibrium + Redox; short test"
+    },
+    {
+      "id": "2026-12-27-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ],
+  "2026-12-28": [
+    {
+      "id": "2026-12-28-physics",
+      "subject": "Physics",
+      "text": "Heat transfer: conduction, convection and radiation"
+    },
+    {
+      "id": "2026-12-28-chemistry",
+      "subject": "Chemistry",
+      "text": "Organic chemistry: classification and nomenclature"
+    },
+    {
+      "id": "2026-12-28-maths",
+      "subject": "Maths",
+      "text": "Current class topic: concept + 3 examples"
+    }
+  ],
+  "2026-12-29": [
+    {
+      "id": "2026-12-29-physics",
+      "subject": "Physics",
+      "text": "Thermodynamics: thermal equilibrium and zeroth law"
+    },
+    {
+      "id": "2026-12-29-chemistry",
+      "subject": "Chemistry",
+      "text": "IUPAC naming of simple compounds"
+    },
+    {
+      "id": "2026-12-29-maths",
+      "subject": "Maths",
+      "text": "Solve 4 questions independently"
+    }
+  ],
+  "2026-12-30": [
+    {
+      "id": "2026-12-30-physics",
+      "subject": "Physics",
+      "text": "First law and thermodynamic processes"
+    },
+    {
+      "id": "2026-12-30-chemistry",
+      "subject": "Chemistry",
+      "text": "Structural isomerism"
+    },
+    {
+      "id": "2026-12-30-maths",
+      "subject": "Maths",
+      "text": "Repair a prerequisite for current chapter"
+    }
+  ],
+  "2026-12-31": [
+    {
+      "id": "2026-12-31-physics",
+      "subject": "Physics",
+      "text": "Isothermal, adiabatic and cyclic processes"
+    },
+    {
+      "id": "2026-12-31-chemistry",
+      "subject": "Chemistry",
+      "text": "Bond fission: homolytic and heterolytic"
+    },
+    {
+      "id": "2026-12-31-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 questions"
+    }
+  ],
+  "2027-01-01": [
+    {
+      "id": "2027-01-01-physics",
+      "subject": "Physics",
+      "text": "Kinetic theory: assumptions and pressure"
+    },
+    {
+      "id": "2027-01-01-chemistry",
+      "subject": "Chemistry",
+      "text": "Electrophiles, nucleophiles and reaction intermediates"
+    },
+    {
+      "id": "2027-01-01-maths",
+      "subject": "Maths",
+      "text": "Redo 3 mistakes"
+    }
+  ],
+  "2027-01-02": [
+    {
+      "id": "2027-01-02-physics",
+      "subject": "Physics",
+      "text": "Kinetic energy and temperature relation"
+    },
+    {
+      "id": "2027-01-02-chemistry",
+      "subject": "Chemistry",
+      "text": "Inductive effect and resonance basics"
+    },
+    {
+      "id": "2027-01-02-maths",
+      "subject": "Maths",
+      "text": "School homework + revision"
+    }
+  ],
+  "2027-01-03": [
+    {
+      "id": "2027-01-03-physics",
+      "subject": "Physics",
+      "text": "Weekly recap: Thermal Physics + KTG; short test"
+    },
+    {
+      "id": "2027-01-03-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly recap: Organic foundations; short test"
+    },
+    {
+      "id": "2027-01-03-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ],
+  "2027-01-04": [
+    {
+      "id": "2027-01-04-physics",
+      "subject": "Physics",
+      "text": "SHM: periodic motion, amplitude, time period"
+    },
+    {
+      "id": "2027-01-04-chemistry",
+      "subject": "Chemistry",
+      "text": "Organic effects: inductive effect practice"
+    },
+    {
+      "id": "2027-01-04-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 examples independently"
+    }
+  ],
+  "2027-01-05": [
+    {
+      "id": "2027-01-05-physics",
+      "subject": "Physics",
+      "text": "SHM equation and phase"
+    },
+    {
+      "id": "2027-01-05-chemistry",
+      "subject": "Chemistry",
+      "text": "Resonance structures and stability"
+    },
+    {
+      "id": "2027-01-05-maths",
+      "subject": "Maths",
+      "text": "Solve 4 questions from school work"
+    }
+  ],
+  "2027-01-06": [
+    {
+      "id": "2027-01-06-physics",
+      "subject": "Physics",
+      "text": "Velocity and acceleration in SHM"
+    },
+    {
+      "id": "2027-01-06-chemistry",
+      "subject": "Chemistry",
+      "text": "Hyperconjugation and basic acidity/basicity"
+    },
+    {
+      "id": "2027-01-06-maths",
+      "subject": "Maths",
+      "text": "Review class notes and definitions"
+    }
+  ],
+  "2027-01-07": [
+    {
+      "id": "2027-01-07-physics",
+      "subject": "Physics",
+      "text": "Energy in SHM and spring oscillator"
+    },
+    {
+      "id": "2027-01-07-chemistry",
+      "subject": "Chemistry",
+      "text": "Hydrocarbons: alkanes and preparation"
+    },
+    {
+      "id": "2027-01-07-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 questions"
+    }
+  ],
+  "2027-01-08": [
+    {
+      "id": "2027-01-08-physics",
+      "subject": "Physics",
+      "text": "Simple pendulum and time period"
+    },
+    {
+      "id": "2027-01-08-chemistry",
+      "subject": "Chemistry",
+      "text": "Alkanes: reactions and conformations (basics)"
+    },
+    {
+      "id": "2027-01-08-maths",
+      "subject": "Maths",
+      "text": "Mistake-log reattempt"
+    }
+  ],
+  "2027-01-09": [
+    {
+      "id": "2027-01-09-physics",
+      "subject": "Physics",
+      "text": "Waves: transverse/longitudinal, speed and wavelength"
+    },
+    {
+      "id": "2027-01-09-chemistry",
+      "subject": "Chemistry",
+      "text": "Alkenes: addition reactions and Markovnikov idea"
+    },
+    {
+      "id": "2027-01-09-maths",
+      "subject": "Maths",
+      "text": "School homework + backlog"
+    }
+  ],
+  "2027-01-10": [
+    {
+      "id": "2027-01-10-physics",
+      "subject": "Physics",
+      "text": "Weekly recap: SHM + Waves; short test"
+    },
+    {
+      "id": "2027-01-10-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly recap: Organic basics + hydrocarbons; short test"
+    },
+    {
+      "id": "2027-01-10-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ],
+  "2027-01-11": [
+    {
+      "id": "2027-01-11-physics",
+      "subject": "Physics",
+      "text": "Waves: superposition and interference basics"
+    },
+    {
+      "id": "2027-01-11-chemistry",
+      "subject": "Chemistry",
+      "text": "Alkenes: reactions and question practice"
+    },
+    {
+      "id": "2027-01-11-maths",
+      "subject": "Maths",
+      "text": "Current class topic: 3 independent questions"
+    }
+  ],
+  "2027-01-12": [
+    {
+      "id": "2027-01-12-physics",
+      "subject": "Physics",
+      "text": "Standing waves and nodes/antinodes"
+    },
+    {
+      "id": "2027-01-12-chemistry",
+      "subject": "Chemistry",
+      "text": "Alkynes: structure and addition reactions"
+    },
+    {
+      "id": "2027-01-12-maths",
+      "subject": "Maths",
+      "text": "Solve 4 questions; mark doubts"
+    }
+  ],
+  "2027-01-13": [
+    {
+      "id": "2027-01-13-physics",
+      "subject": "Physics",
+      "text": "Beats and sound basics (if in syllabus)"
+    },
+    {
+      "id": "2027-01-13-chemistry",
+      "subject": "Chemistry",
+      "text": "Aromatic hydrocarbons: benzene structure"
+    },
+    {
+      "id": "2027-01-13-maths",
+      "subject": "Maths",
+      "text": "Revise formulas from class"
+    }
+  ],
+  "2027-01-14": [
+    {
+      "id": "2027-01-14-physics",
+      "subject": "Physics",
+      "text": "Repair weakest Kinematics concept"
+    },
+    {
+      "id": "2027-01-14-chemistry",
+      "subject": "Chemistry",
+      "text": "Benzene: electrophilic substitution overview"
+    },
+    {
+      "id": "2027-01-14-maths",
+      "subject": "Maths",
+      "text": "Current class topic: timed 20-min practice"
+    }
+  ],
+  "2027-01-15": [
+    {
+      "id": "2027-01-15-physics",
+      "subject": "Physics",
+      "text": "Repair weakest Laws of Motion concept"
+    },
+    {
+      "id": "2027-01-15-chemistry",
+      "subject": "Chemistry",
+      "text": "Hydrocarbons NCERT examples and reactions"
+    },
+    {
+      "id": "2027-01-15-maths",
+      "subject": "Maths",
+      "text": "Reattempt errors"
+    }
+  ],
+  "2027-01-16": [
+    {
+      "id": "2027-01-16-physics",
+      "subject": "Physics",
+      "text": "Repair weakest WEP/Rotation concept"
+    },
+    {
+      "id": "2027-01-16-chemistry",
+      "subject": "Chemistry",
+      "text": "Hydrocarbons mixed practice"
+    },
+    {
+      "id": "2027-01-16-maths",
+      "subject": "Maths",
+      "text": "Complete school homework"
+    }
+  ],
+  "2027-01-17": [
+    {
+      "id": "2027-01-17-physics",
+      "subject": "Physics",
+      "text": "Weekly test: Mechanics + Waves"
+    },
+    {
+      "id": "2027-01-17-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly test: Organic + Hydrocarbons"
+    },
+    {
+      "id": "2027-01-17-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ],
+  "2027-01-18": [
+    {
+      "id": "2027-01-18-physics",
+      "subject": "Physics",
+      "text": "Revision: Units, dimensions and errors"
+    },
+    {
+      "id": "2027-01-18-chemistry",
+      "subject": "Chemistry",
+      "text": "Revision: Mole concept and stoichiometry"
+    },
+    {
+      "id": "2027-01-18-maths",
+      "subject": "Maths",
+      "text": "Current class topic + 3 questions"
+    }
+  ],
+  "2027-01-19": [
+    {
+      "id": "2027-01-19-physics",
+      "subject": "Physics",
+      "text": "Revision: Vectors and 1D Kinematics"
+    },
+    {
+      "id": "2027-01-19-chemistry",
+      "subject": "Chemistry",
+      "text": "Revision: Atomic models and Bohr model"
+    },
+    {
+      "id": "2027-01-19-maths",
+      "subject": "Maths",
+      "text": "Redo 4 marked questions"
+    }
+  ],
+  "2027-01-20": [
+    {
+      "id": "2027-01-20-physics",
+      "subject": "Physics",
+      "text": "Revision: 2D motion and graphs"
+    },
+    {
+      "id": "2027-01-20-chemistry",
+      "subject": "Chemistry",
+      "text": "Revision: Quantum numbers and configuration"
+    },
+    {
+      "id": "2027-01-20-maths",
+      "subject": "Maths",
+      "text": "Formula recall + 3 examples"
+    }
+  ],
+  "2027-01-21": [
+    {
+      "id": "2027-01-21-physics",
+      "subject": "Physics",
+      "text": "Revision: Newton's laws and free-body diagrams"
+    },
+    {
+      "id": "2027-01-21-chemistry",
+      "subject": "Chemistry",
+      "text": "Revision: Periodic trends and explanations"
+    },
+    {
+      "id": "2027-01-21-maths",
+      "subject": "Maths",
+      "text": "Current class topic + 4 questions"
+    }
+  ],
+  "2027-01-22": [
+    {
+      "id": "2027-01-22-physics",
+      "subject": "Physics",
+      "text": "Revision: friction and connected-body basics"
+    },
+    {
+      "id": "2027-01-22-chemistry",
+      "subject": "Chemistry",
+      "text": "Revision: Chemical bonding and shapes"
+    },
+    {
+      "id": "2027-01-22-maths",
+      "subject": "Maths",
+      "text": "Repair weakest subtopic"
+    }
+  ],
+  "2027-01-23": [
+    {
+      "id": "2027-01-23-physics",
+      "subject": "Physics",
+      "text": "Mixed Kinematics + NLM questions"
+    },
+    {
+      "id": "2027-01-23-chemistry",
+      "subject": "Chemistry",
+      "text": "Mixed Mole + Atomic + Periodicity questions"
+    },
+    {
+      "id": "2027-01-23-maths",
+      "subject": "Maths",
+      "text": "School homework + short revision"
+    }
+  ],
+  "2027-01-24": [
+    {
+      "id": "2027-01-24-physics",
+      "subject": "Physics",
+      "text": "Weekly test + analysis: Units to NLM"
+    },
+    {
+      "id": "2027-01-24-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly test + analysis: first four chemistry units"
+    },
+    {
+      "id": "2027-01-24-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ],
+  "2027-01-25": [
+    {
+      "id": "2027-01-25-physics",
+      "subject": "Physics",
+      "text": "Revision: Work, energy and power"
+    },
+    {
+      "id": "2027-01-25-chemistry",
+      "subject": "Chemistry",
+      "text": "Revision: Thermodynamics laws and enthalpy"
+    },
+    {
+      "id": "2027-01-25-maths",
+      "subject": "Maths",
+      "text": "Current class topic + 3 questions"
+    }
+  ],
+  "2027-01-26": [
+    {
+      "id": "2027-01-26-physics",
+      "subject": "Physics",
+      "text": "Revision: COM, momentum and collisions"
+    },
+    {
+      "id": "2027-01-26-chemistry",
+      "subject": "Chemistry",
+      "text": "Revision: Entropy and Gibbs energy"
+    },
+    {
+      "id": "2027-01-26-maths",
+      "subject": "Maths",
+      "text": "Redo 4 marked questions"
+    }
+  ],
+  "2027-01-27": [
+    {
+      "id": "2027-01-27-physics",
+      "subject": "Physics",
+      "text": "Revision: Torque and moment of inertia"
+    },
+    {
+      "id": "2027-01-27-chemistry",
+      "subject": "Chemistry",
+      "text": "Revision: Chemical equilibrium and Kc/Kp"
+    },
+    {
+      "id": "2027-01-27-maths",
+      "subject": "Maths",
+      "text": "Formula recall + 3 examples"
+    }
+  ],
+  "2027-01-28": [
+    {
+      "id": "2027-01-28-physics",
+      "subject": "Physics",
+      "text": "Revision: Angular momentum and rolling"
+    },
+    {
+      "id": "2027-01-28-chemistry",
+      "subject": "Chemistry",
+      "text": "Revision: Ionic equilibrium and pH"
+    },
+    {
+      "id": "2027-01-28-maths",
+      "subject": "Maths",
+      "text": "Current class topic + timed set"
+    }
+  ],
+  "2027-01-29": [
+    {
+      "id": "2027-01-29-physics",
+      "subject": "Physics",
+      "text": "Revision: Gravitation and satellites"
+    },
+    {
+      "id": "2027-01-29-chemistry",
+      "subject": "Chemistry",
+      "text": "Revision: Redox concepts and balancing"
+    },
+    {
+      "id": "2027-01-29-maths",
+      "subject": "Maths",
+      "text": "Repair weakest subtopic"
+    }
+  ],
+  "2027-01-30": [
+    {
+      "id": "2027-01-30-physics",
+      "subject": "Physics",
+      "text": "Mixed Mechanics questions"
+    },
+    {
+      "id": "2027-01-30-chemistry",
+      "subject": "Chemistry",
+      "text": "Mixed Physical Chemistry numericals"
+    },
+    {
+      "id": "2027-01-30-maths",
+      "subject": "Maths",
+      "text": "School homework + short revision"
+    }
+  ],
+  "2027-01-31": [
+    {
+      "id": "2027-01-31-physics",
+      "subject": "Physics",
+      "text": "Weekly test + analysis: WEP to Gravitation"
+    },
+    {
+      "id": "2027-01-31-chemistry",
+      "subject": "Chemistry",
+      "text": "Weekly test + analysis: Thermo to Redox"
+    },
+    {
+      "id": "2027-01-31-maths",
+      "subject": "Maths",
+      "text": "Weekly test: current chapter"
+    }
+  ]
+}
